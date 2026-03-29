@@ -118,6 +118,16 @@ class _MyHomePageState extends State<MyHomePage> {
                             height: 1.8,
                           ),
                         ),
+                        const SizedBox(height: 20),
+                        Text(
+                          'Xsdfgsdgfsdfsdafsadf v-----------------------------------------sdfasdfsdf.',
+                          textAlign: TextAlign.center,
+                          style: const TextStyle(
+                            color: Color(0xff555555),
+                            fontSize: 16,
+                            height: 1.8,
+                          ),
+                        ),
                       ],
                     )),
               ),
@@ -125,6 +135,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ],
       ),
+
       // floatingActionButton: FloatingActionButton(
       //   onPressed: _incrementCounter,
       //   tooltip: 'Increment',
