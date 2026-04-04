@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Segoe UI',
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Elektroinštalácie'),
+      home: const MyHomePage(title: 'Elektroinštalácie WORKS 🚀'),
     );
   }
 }
