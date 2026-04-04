@@ -51533,7 +51533,7 @@ A.D2.prototype={
 M(a){var s,r,q,p,o=null,n=A.at(a).ax,m=n.k2
 n=m==null?n.c:m
 this.a.toString
-m=A.lO("Elektroin\u0161tal\xe1cie",o,o)
+m=A.lO("Elektroin\u0161tal\xe1cie WORKS \ud83d\ude80",o,o)
 s=A.zA(o,100,o)
 r=A.at(a).p3.b
 r=A.lO("Spo\u013eahliv\xe9 elektroin\u0161tal\xe1cie\npre dom\xe1cnosti a firmy",r==null?o:r.QR(B.h,B.aV,1.2),B.aM)
